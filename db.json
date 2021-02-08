@@ -1,14 +1,36 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "test",
+      "title": "First Stream ever",
+      "description": "This is my first stream",
       "id": 1
     },
     {
       "title": "My Stream",
       "description": "This is my stream!",
       "id": 2
+    },
+    {
+      "title": "Justins Stream",
+      "description": "A Stream for Justin",
+      "id": 3
+    },
+    {
+      "title": "Updated - I created this stream",
+      "description": "This was made by me",
+      "id": 4
+    },
+    {
+      "title": "Stewies Streaming Channel",
+      "description": "This channel uses a patch instead of a put because we are only returning text and description. We left out the id.",
+      "userId": "105592825358636275827",
+      "id": 5
+    },
+    {
+      "title": "Ruperts Twitch Stream",
+      "description": "A stream for the coolest pug ever.",
+      "userId": "105592825358636275827",
+      "id": 6
     }
   ]
 }
